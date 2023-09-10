@@ -1,0 +1,131 @@
+{
+  "format": 1,
+  "restore": {
+    "\\\\wsl.localhost\\Ubuntu-20.04\\home\\rt\\CSharpCode\\c-sharp-10-asynchronous-programming\\02\\demos\\Windows\\Start_Here\\StockAnalyzer.Web\\StockAnalyzer.Web.csproj": {}
+  },
+  "projects": {
+    "\\\\wsl.localhost\\Ubuntu-20.04\\home\\rt\\CSharpCode\\c-sharp-10-asynchronous-programming\\02\\demos\\Windows\\Start_Here\\StockAnalyzer.Core\\StockAnalyzer.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\wsl.localhost\\Ubuntu-20.04\\home\\rt\\CSharpCode\\c-sharp-10-asynchronous-programming\\02\\demos\\Windows\\Start_Here\\StockAnalyzer.Core\\StockAnalyzer.Core.csproj",
+        "projectName": "StockAnalyzer.Core",
+        "projectPath": "\\\\wsl.localhost\\Ubuntu-20.04\\home\\rt\\CSharpCode\\c-sharp-10-asynchronous-programming\\02\\demos\\Windows\\Start_Here\\StockAnalyzer.Core\\StockAnalyzer.Core.csproj",
+        "packagesPath": "C:\\Users\\rroge\\.nuget\\packages\\",
+        "outputPath": "\\\\wsl.localhost\\Ubuntu-20.04\\home\\rt\\CSharpCode\\c-sharp-10-asynchronous-programming\\02\\demos\\Windows\\Start_Here\\StockAnalyzer.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rroge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "\\\\wsl.localhost\\Ubuntu-20.04\\home\\rt\\CSharpCode\\c-sharp-10-asynchronous-programming\\02\\demos\\Windows\\Start_Here\\StockAnalyzer.Web\\StockAnalyzer.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\wsl.localhost\\Ubuntu-20.04\\home\\rt\\CSharpCode\\c-sharp-10-asynchronous-programming\\02\\demos\\Windows\\Start_Here\\StockAnalyzer.Web\\StockAnalyzer.Web.csproj",
+        "projectName": "StockAnalyzer.Web",
+        "projectPath": "\\\\wsl.localhost\\Ubuntu-20.04\\home\\rt\\CSharpCode\\c-sharp-10-asynchronous-programming\\02\\demos\\Windows\\Start_Here\\StockAnalyzer.Web\\StockAnalyzer.Web.csproj",
+        "packagesPath": "C:\\Users\\rroge\\.nuget\\packages\\",
+        "outputPath": "\\\\wsl.localhost\\Ubuntu-20.04\\home\\rt\\CSharpCode\\c-sharp-10-asynchronous-programming\\02\\demos\\Windows\\Start_Here\\StockAnalyzer.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rroge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "\\\\wsl.localhost\\Ubuntu-20.04\\home\\rt\\CSharpCode\\c-sharp-10-asynchronous-programming\\02\\demos\\Windows\\Start_Here\\StockAnalyzer.Core\\StockAnalyzer.Core.csproj": {
+                "projectPath": "\\\\wsl.localhost\\Ubuntu-20.04\\home\\rt\\CSharpCode\\c-sharp-10-asynchronous-programming\\02\\demos\\Windows\\Start_Here\\StockAnalyzer.Core\\StockAnalyzer.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

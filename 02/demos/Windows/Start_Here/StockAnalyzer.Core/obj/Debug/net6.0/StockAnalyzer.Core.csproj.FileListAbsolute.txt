@@ -1,0 +1,12 @@
+\\wsl.localhost\Ubuntu-20.04\home\rt\CSharpCode\c-sharp-10-asynchronous-programming\02\demos\Windows\Start_Here\StockAnalyzer.Core\bin\Debug\net6.0\StockAnalyzer.Core.deps.json
+\\wsl.localhost\Ubuntu-20.04\home\rt\CSharpCode\c-sharp-10-asynchronous-programming\02\demos\Windows\Start_Here\StockAnalyzer.Core\bin\Debug\net6.0\StockAnalyzer.Core.dll
+\\wsl.localhost\Ubuntu-20.04\home\rt\CSharpCode\c-sharp-10-asynchronous-programming\02\demos\Windows\Start_Here\StockAnalyzer.Core\bin\Debug\net6.0\StockAnalyzer.Core.pdb
+\\wsl.localhost\Ubuntu-20.04\home\rt\CSharpCode\c-sharp-10-asynchronous-programming\02\demos\Windows\Start_Here\StockAnalyzer.Core\obj\Debug\net6.0\StockAnalyzer.Core.csproj.AssemblyReference.cache
+\\wsl.localhost\Ubuntu-20.04\home\rt\CSharpCode\c-sharp-10-asynchronous-programming\02\demos\Windows\Start_Here\StockAnalyzer.Core\obj\Debug\net6.0\StockAnalyzer.Core.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu-20.04\home\rt\CSharpCode\c-sharp-10-asynchronous-programming\02\demos\Windows\Start_Here\StockAnalyzer.Core\obj\Debug\net6.0\StockAnalyzer.Core.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\rt\CSharpCode\c-sharp-10-asynchronous-programming\02\demos\Windows\Start_Here\StockAnalyzer.Core\obj\Debug\net6.0\StockAnalyzer.Core.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu-20.04\home\rt\CSharpCode\c-sharp-10-asynchronous-programming\02\demos\Windows\Start_Here\StockAnalyzer.Core\obj\Debug\net6.0\StockAnalyzer.Core.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\rt\CSharpCode\c-sharp-10-asynchronous-programming\02\demos\Windows\Start_Here\StockAnalyzer.Core\obj\Debug\net6.0\StockAnalyzer.Core.dll
+\\wsl.localhost\Ubuntu-20.04\home\rt\CSharpCode\c-sharp-10-asynchronous-programming\02\demos\Windows\Start_Here\StockAnalyzer.Core\obj\Debug\net6.0\refint\StockAnalyzer.Core.dll
+\\wsl.localhost\Ubuntu-20.04\home\rt\CSharpCode\c-sharp-10-asynchronous-programming\02\demos\Windows\Start_Here\StockAnalyzer.Core\obj\Debug\net6.0\StockAnalyzer.Core.pdb
+\\wsl.localhost\Ubuntu-20.04\home\rt\CSharpCode\c-sharp-10-asynchronous-programming\02\demos\Windows\Start_Here\StockAnalyzer.Core\obj\Debug\net6.0\ref\StockAnalyzer.Core.dll
